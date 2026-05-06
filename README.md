@@ -15,7 +15,7 @@ If the dataset was used in further development, please cite the original UCI sou
 # Comparison of simple and common Machine Learning Algorithms
 Originaly developed as part of university coursework
 
-For educational purposes only!
+Intended for educational purposes only!
 
 More specifically, implementation of:
 	- Nearest Neighbour (NN)
