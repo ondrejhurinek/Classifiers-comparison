@@ -1,8 +1,10 @@
 # Dataset
 This project uses the Optical Recognition of Handwritten Digits dataset from the UCI Machine Learning Repository.
 The dataset was split into 2 separate datasets (training and test dataset).
+
 Dataset source:
 https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
+
 Creators:
 - E. Alpaydin
 - C. Kaynak
