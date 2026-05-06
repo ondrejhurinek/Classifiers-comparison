@@ -20,10 +20,15 @@ Originaly developed as part of university coursework
 Intended for educational purposes only!
 
 More specifically, implementation of:
+
 	- Nearest Neighbour (NN)
+	
 	- K-Nearest Neighbour (KNN)
+	
 	- Weighted KNN
+	
 	- Multi-Layer Perceptron (MLP)
+	
 	- Support Vector Machine (SVM)
 
 Written in Java without any external ML libraries!
