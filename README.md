@@ -15,7 +15,7 @@ The dataset was not created by me and is used for educational purposes only!
 If the dataset was used in further development, please cite the original UCI source.
 
 # Comparison of simple and common Machine Learning Algorithms
-Originaly developed as part of university coursework
+Originaly developed as part of university coursework.
 
 Intended for educational purposes only!
 
