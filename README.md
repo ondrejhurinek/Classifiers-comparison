@@ -6,6 +6,7 @@ https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
 Creators:
 - E. Alpaydin
 - C. Kaynak
+
 License:
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 The dataset was not created by me and is used for educational purposes only!
