@@ -1,4 +1,4 @@
-/* This simple code implements and compares several machine-learning classification algorithms
+/* This code implements and compares several machine-learning classification algorithms
  * on the optical handwritten-digit dataset (8×8 pixel inputs, 10 output classes).
  * 
  * NOTE! --> to set up the program correctly, change on/off settings, file names and each algorithm's parameters
