@@ -1,36 +1,76 @@
-# Dataset
-This project uses the Optical Recognition of Handwritten Digits dataset from the UCI Machine Learning Repository.
-The dataset was split into 2 separate datasets (training and test dataset).
+# Handwritten Digit Classification Framework
 
-Dataset source:
+A machine learning classification framework implemented entirely in **Java**
+without relying on external machine learning libraries.
+
+The project implements several commonly used supervised learning algorithms
+from first principles to better understand their mathematical foundations,
+training procedures and performance characteristics.
+
+The framework provides implementations of:
+
+- Nearest Neighbour (NN)
+- k-Nearest Neighbour (k-NN)
+- Weighted k-Nearest Neighbour
+- Multilayer Perceptron (MLP)
+- Support Vector Machine (SVM)
+
+The primary goal of the project was to explore how these algorithms operate
+internally rather than relying on existing machine learning frameworks.
+
+---
+
+## Features
+
+- Pure Java implementation
+- No external machine learning libraries
+- Common interface for multiple classifiers
+- Performance comparison across algorithms
+- Training and evaluation on handwritten digit recognition
+
+---
+
+## Dataset
+
+This project uses the **Optical Recognition of Handwritten Digits**
+dataset from the UCI Machine Learning Repository.
+
+Dataset:
 https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
 
 Creators:
+
 - E. Alpaydin
 - C. Kaynak
 
 License:
+
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-The dataset was not created by me and is used for educational purposes only!
-If the dataset was used in further development, please cite the original UCI source.
 
-# Comparison of simple and common Machine Learning Algorithms
-Originaly developed as part of university coursework.
+The dataset was created by the original authors and is used in accordance
+with the dataset licence.
 
-Intended for educational purposes only!
+---
 
-More specifically, implementation of:
+## Project Structure
 
-	- Nearest Neighbour (NN)
-	
-	- K-Nearest Neighbour (KNN)
-	
-	- Weighted KNN
-	
-	- Multi-Layer Perceptron (MLP)
-	
-	- Support Vector Machine (SVM)
+```
+src/
+    classifiers/
+        NN/
+        KNN/
+        WeightedKNN/
+        MLP/
+        SVM/
 
-Written in Java without any external ML libraries!
+    dataset/
 
-For more info about the architecture and calculations, see description in java files.
+    evaluation/
+```
+
+---
+
+## Documentation
+
+Implementation details and algorithm descriptions are documented throughout
+the source code.
